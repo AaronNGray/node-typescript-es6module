@@ -1,0 +1,16 @@
+{
+  "name": "node-typescript-es6module",
+  "version": "0.0.1",
+  "description": "Node.js + TypeScript + ES6 Modules",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && node caller.js"
+  },
+  "author": "AaronNGray",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
