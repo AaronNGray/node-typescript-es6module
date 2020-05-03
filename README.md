@@ -14,6 +14,7 @@ npm test
 git checkout mjs
 npm test
 ```
+output :-
 ```
 C:\Users\aaron\Tests\TypeScript\node-typescript-es6module>npm test
 
