@@ -1,4 +1,4 @@
-import { test } from './callee.js';
+import { test } from './callee.mjs';
 
 console.log(test());
 
